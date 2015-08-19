@@ -19,5 +19,22 @@ html {
 }
 
 body {
-  margin: 0;
+    margin: 0;
+}
+
+.nav {
+    text-align: center;
+}
+
+.list-group {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.list-group-inline > li {
+  display: inline-block;
+}
+
+.banner {
+    background-image: url(http://placehold.it/1800x750);
 }
